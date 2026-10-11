@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 深色主题：跟随系统日/夜自动切换 -->
+    <style name="AppTheme" parent="android:Theme.Material.NoActionBar">
+        <item name="cBg">#131419</item>
+        <item name="cCard">#1F2128</item>
+        <item name="cCardSub">#2A2D37</item>
+        <item name="cText">#ECECF1</item>
+        <item name="cTextSub">#8B8E9C</item>
+        <item name="cAccent">#7B7FF5</item>
+        <item name="android:statusBarColor">#131419</item>
+        <item name="android:windowBackground">#131419</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

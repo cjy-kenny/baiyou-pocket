@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 浅色主题 -->
+    <style name="AppTheme" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="cBg">#F3F4F8</item>
+        <item name="cCard">#FFFFFF</item>
+        <item name="cCardSub">#EDEEF4</item>
+        <item name="cText">#1B1C22</item>
+        <item name="cTextSub">#7A7D8A</item>
+        <item name="cAccent">#5B5FEF</item>
+        <item name="android:statusBarColor">#F3F4F8</item>
+        <item name="android:windowBackground">#F3F4F8</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

@@ -1,0 +1,19 @@
+# ---- 构建产物（发布走 GitHub Release 附件）----
+android/build/
+desktop/build/
+dist/
+
+# ---- 本机运行数据（用户存档，勿提交）----
+desktop-data/
+desktop-data-demo/
+
+# ---- QA / 演示自动生成的临时产物 ----
+desktop/qa/
+desktop/screenshots/
+
+# ---- 调试残留 ----
+*.class
+tools/_T.java
+
+# ---- Python ----
+__pycache__/

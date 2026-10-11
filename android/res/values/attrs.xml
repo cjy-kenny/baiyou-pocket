@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 主题语义色：日/夜两套 values 在 AppTheme 中赋值，代码里通过 attr 取色 -->
+<resources>
+    <attr name="cBg" format="color"/>
+    <attr name="cCard" format="color"/>
+    <attr name="cCardSub" format="color"/>
+    <attr name="cText" format="color"/>
+    <attr name="cTextSub" format="color"/>
+    <attr name="cAccent" format="color"/>
+</resources>
